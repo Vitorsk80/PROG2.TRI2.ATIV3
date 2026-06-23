@@ -1,1 +1,28 @@
 # PROG2.TRI2.ATIV3
+
+Classes e objetos
+Exemplo 1:
+https://www.typescriptlang.org/play/?#code/PQKgUABFEMoKYQG4HsDGAriBHArgSwGc4AnCAMwEMAvEiHAWwolWQDsCAXC1jhABzgECyCgWbJ6yCKwkIEeACYUFcADRI0mPsTipCFYniaUapMjlYBzgK+CICA8QoBPMS3r2hdpQuQF1jGJwADZ2ZHioFB4qwsQqrMp+AHSQ0KIEePQAXBAA2gBEAFLIAMfI+eoAjACsALoQqVB8yMQAl-TqFFLacKyoABa0jIQQPn7kBkZ5MvRqEIrKczNzCyq16uGRrL6jgi0A5tx4VIn2ENoUHBFRvbzzrDhXwccUiCHqyDgQRIZMrLqCAgAQ8MUmGYkcLjEfAMTEiSlGiQIYEa5xa7U6UlQv1IDDhwXScnOOl6A1o7gg4zGYlwCBicAAVhR1BSGMwCV5yNdiECIODKXFesomAgiDCnAjxXDhedASIUtAIOlMjlUQAFOUUHIAb1R+QSs3yOXyAFlJhQKnqKPs4EaIJUAByogC+DRAwEVYBY7A4sqEIjEOW4zjy9QAvKGUeY+lc2MS4KTBsQNf7RAAKA0IHKcQysfadG0QHIPegAIxIAEoILrFXgyGmAISZiAAHxbEAb1rgFZriugHH6xGQAHdpHBRwBRYhD0hp-IAJTgiEICCpSPjicUfnyFZdqJ0HBwxFYfuEoiSfBwBH6GZuBe7YGdKNQHLEKbPvaaOFLz1Q0huRbfBwub7AA3Kil4-hESqFsWDDlsQ4GKt6OY4KgHAtLesxZDmeB5veWQlghPaooqA6EEkzYRs2pH9v0FFdhAEZdnuT5gD0iYkO+AZzsUZQVPa1S7l6bCcKeIhMWOo7cRQc5mr8AmOsJKHIKESTBMg+xpgIqYEMpomqXA6madpmoVkAA
+
+Atributos e métodos
+Construtores (constructor)
+Instanciação de objetos
+Modificadores de acesso (public, private, protected)
+Propriedades somente leitura (readonly)
+Métodos estáticos (static)
+Propriedades estáticas (static)
+Encapsulamento
+Herança
+Polimorfismo
+Abstração
+Getters e setters
+Classes abstratas (abstract)
+Métodos abstratos
+Sobrescrita de métodos (override)
+Sobrecarga de métodos (method overloading)
+Parâmetros opcionais em métodos
+Parâmetros padrão
+Herança simples
+Cadeia de herança
+Tratamento de exceções (throw, try, catch)
+Classes e herança de classes de erro
